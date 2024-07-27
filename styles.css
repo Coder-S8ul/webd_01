@@ -1,0 +1,32 @@
+.container{
+    border:0px;
+    margin:0px;
+    padding:0px;
+    background-color: #f3f3f4;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+    
+}
+.container{
+    flex-direction: column;
+}
+
+.con-item{
+    font-family: "poppins", sans-serif;
+    color:#14110f;
+    text-align: center;
+}
+
+.lin{
+    text-decoration: none;
+    font-family: "poppins", sans-serif;
+    background-color: #d9c5b2;
+    padding:10px;
+    border-radius: 1015px;
+    color:#f3f3f4;
+}
+img{
+    float:left;
+}
